@@ -55,7 +55,7 @@ while total_puntos < 50:
     puntos= int(input("¿Cuántos puntos quieres sumar?"))
     total_puntos += puntos
 
-print(f"Felicidades, llegaste a la meta con {total_puntos} puntos.")
+print(f"Felicidades, llegaste a la meta con {total_puntos} puntos.")git
 
 
     
